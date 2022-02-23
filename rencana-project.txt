@@ -1,0 +1,4 @@
+Rencana Project Akhir Student Code
+  - Mengembangkan Website IPM SMK Muh Bawang
+  - Mengembangkan Aplikasi E-voting
+  - Membuat Website Portofolio
