@@ -1,0 +1,3 @@
+Tekaje.id
+  - menyelesaikan materi di student code
+  - Menyelesaikan Project
